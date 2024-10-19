@@ -63,3 +63,27 @@ int lcm(int yynum1,int yynum2)
 {
     return yynum1*yynum2/gcd(yynum1,yynum2);
 }
+
+//快速幂
+int yymod(int yylow,int yymi)
+{
+    int result=1;
+    for(yymi=yymi;yymi!=0;yymi>>=1)
+    {
+        if (yymi & 1) result*=yylow;
+        yylow*=yylow;
+    }
+    return result;
+
+}
+
+//用2的次方的和表示任意一个整数
+void binsum(int a)
+{
+    int yybin =1;
+    for(a=a;a!=0;a>>=1)
+    {
+        if (a & 1) printf("%d ",yybin);
+        yybin*=2;
+    }
+}
