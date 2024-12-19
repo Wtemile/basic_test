@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\computer\\C\\test\\2024.11.6-enlif-test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B80791D-54C3-448F-9AC1-B7EE986B967D}|2024.11.6-enlif-test\\2024.11.6-enlif-test.vcxproj|E:\\computer\\C\\test\\2024.11.6-enlif-test\\2024.11.6-enlif-test\\2024.11.6-ifdef.c||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9B80791D-54C3-448F-9AC1-B7EE986B967D}|2024.11.6-enlif-test\\2024.11.6-enlif-test.vcxproj|solutionrelative:2024.11.6-enlif-test\\2024.11.6-ifdef.c||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2024.11.6-ifdef.c",
+              "DocumentMoniker": "E:\\computer\\C\\test\\2024.11.6-enlif-test\\2024.11.6-enlif-test\\2024.11.6-ifdef.c",
+              "RelativeDocumentMoniker": "2024.11.6-enlif-test\\2024.11.6-ifdef.c",
+              "ToolTip": "E:\\computer\\C\\test\\2024.11.6-enlif-test\\2024.11.6-enlif-test\\2024.11.6-ifdef.c*",
+              "RelativeToolTip": "2024.11.6-enlif-test\\2024.11.6-ifdef.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-06T08:25:36.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

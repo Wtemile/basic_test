@@ -1,0 +1,5 @@
+﻿  2024.11.11-str.c
+E:\computer\C\test\2024.11\2024.11.11-str\2024.11.11-str\2024.11.11-str.c(17,2): warning C4013: “gets”未定义；假设外部返回 int
+E:\computer\C\test\2024.11\2024.11.11-str\2024.11.11-str\2024.11.11-str.c(23,9): warning C4133: “函数”: 从“char [20]”到“wchar_t *”的类型不兼容
+E:\computer\C\test\2024.11\2024.11.11-str\2024.11.11-str\2024.11.11-str.c(23,15): warning C4133: “函数”: 从“char [20]”到“const wchar_t *”的类型不兼容
+E:\computer\C\test\2024.11\2024.11.11-str\2024.11.11-str\2024.11.11-str.c(23,2): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

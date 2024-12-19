@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\computer\\C\\test\\2024.11.4-extern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A5578D-E8F0-4045-869D-197D0EBD74F8}|2024.11.4-extern\\2024.11.4-extern.vcxproj|E:\\computer\\C\\test\\2024.11.4-extern\\2024.11.4-extern\\first.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90A5578D-E8F0-4045-869D-197D0EBD74F8}|2024.11.4-extern\\2024.11.4-extern.vcxproj|solutionrelative:2024.11.4-extern\\first.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A5578D-E8F0-4045-869D-197D0EBD74F8}|2024.11.4-extern\\2024.11.4-extern.vcxproj|E:\\computer\\C\\test\\2024.11.4-extern\\2024.11.4-extern\\second.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90A5578D-E8F0-4045-869D-197D0EBD74F8}|2024.11.4-extern\\2024.11.4-extern.vcxproj|solutionrelative:2024.11.4-extern\\second.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "first.c",
+              "DocumentMoniker": "E:\\computer\\C\\test\\2024.11.4-extern\\2024.11.4-extern\\first.c",
+              "RelativeDocumentMoniker": "2024.11.4-extern\\first.c",
+              "ToolTip": "E:\\computer\\C\\test\\2024.11.4-extern\\2024.11.4-extern\\first.c*",
+              "RelativeToolTip": "2024.11.4-extern\\first.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-04T08:20:29.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "second.c",
+              "DocumentMoniker": "E:\\computer\\C\\test\\2024.11.4-extern\\2024.11.4-extern\\second.c",
+              "RelativeDocumentMoniker": "2024.11.4-extern\\second.c",
+              "ToolTip": "E:\\computer\\C\\test\\2024.11.4-extern\\2024.11.4-extern\\second.c",
+              "RelativeToolTip": "2024.11.4-extern\\second.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-04T08:20:57.078Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
